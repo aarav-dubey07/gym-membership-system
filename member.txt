@@ -1,3 +1,6 @@
 Member Signup Details
 Name: Aarav
 Membership: Premium
+Trainer Assignment Details
+Trainer: Aarav
+Specialization: Fitness
